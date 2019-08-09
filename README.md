@@ -7,7 +7,7 @@ Code Completion and Execution History
 
 
 ## [**SSMSBoost**](https://www.ssmsboost.com/)
-Quick Connection Switch, Formatting, Session Recovery and Critical Operation Protection
+Quick Connection Switch, Formatting, Session Recovery, Critical Operation Protection and more
 
 
 
