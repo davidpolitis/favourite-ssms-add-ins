@@ -6,7 +6,7 @@ A collection of my favourite SQL Server Management Studio add-ins, along with a 
 * Execution History
 
 ## [**SSMSBoost**](https://www.ssmsboost.com/)
-* [Quick Connection Switch - Drop-down list on toolbar to switch server connections)](https://www.ssmsboost.com/Features/ssms-add-in-quick-connection-switch)
+* [Quick Connection Switch - Drop-down list on toolbar to switch server connections](https://www.ssmsboost.com/Features/ssms-add-in-quick-connection-switch)
 * [SQL Formatting](https://www.ssmsboost.com/Features/ssms-add-in-format-sql-document)
 * [Auto-recovery of recent tabs - Including unsaved documents and their connections, and "Restore last closed tab"](https://www.ssmsboost.com/Features/ssms-add-in-recent-tabs)
 * [Autorecovery of recent sessions - Including unsaved documents and their connections](https://www.ssmsboost.com/Features/ssms-add-in-recent-sessions)
